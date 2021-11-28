@@ -31,6 +31,12 @@ h2 {
   text-align: center;
 }
 
+h2.larger {
+  font-size: 4rem;
+  margin: 0;
+  text-align: center;
+}
+
 body>header {
   display: grid;
   height: 20px;
